@@ -13,7 +13,5 @@
 
 
 
-[go](http://stackoverflow.com){:target="_blank"}
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
