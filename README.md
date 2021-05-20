@@ -12,4 +12,4 @@
 - <code>**Regolamento unico dei controlli interni del comune di Palermo (approvato con Deliberazione di Consiglio Comunale n.4 del 09/02/2017). Si applica anche alle Società comunali partecipate**</code> https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/Regolamento%20unico%20comunale%20controlli%20interni/regolamento_unico_controlli_interni.pdf
 
 
-[link](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/Regolamento%20unico%20comunale%20controlli%20interni/regolamento_unico_controlli_interni.pdf){:target="_blank"}
+[link](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/Regolamento%20unico%20comunale%20controlli%20interni/regolamento_unico_controlli_interni.pdf)
