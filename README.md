@@ -1,4 +1,4 @@
-# SISPI
+# Società in house del Comune di Palermo SISPI SpA
 
 ### repository degli atti comunali ufficiali relativi ai rapporti con la Società comunale in house SISPI SpA
 
