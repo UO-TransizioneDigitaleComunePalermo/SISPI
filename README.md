@@ -2,6 +2,8 @@
 
 ### Repository degli atti comunali ufficiali relativi ai rapporti con la Società comunale in house SISPI SpA
 
+`https://docs.google.com/viewer?url=`
+
 ## Documenti nel visualizzatore `pdf` - anno 2021
 - <code>**POA 2021 SISPI**</code> = https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/POA_2021_SISPI/POA_2021_SISPI_revisione_16-02-2021.pdf
 - <code>**POA 2021 SISPI rimodulato al 16 febbraio 2021**</code> =  https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/POA_2021_SISPI/POA_2021_Revisione_corrispettivi_1_Prot.%20113650%20del%2016.02.2021%20All.%201.pdf
