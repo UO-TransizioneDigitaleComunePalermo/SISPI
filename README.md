@@ -6,6 +6,7 @@
 
 ## Documenti nel visualizzatore `pdf` - anno 2021
 
+- <code>**Deliberazione GC 347 del 27.12.2021 approvazione budget 2022 SISPI**</code> = https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/Budget-2022-e-nota-aggiornamento-Piano-Industriale-Sispi_2022-2024-prot_997856-29.09.2021/deliberazione_GC_347_27-12-2021_approvazione-budget-2022-SISPI.pdf
 - <code>**POA 2022 SISPI**</code> = https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/POA_2022_SISPI/POA_SISPI_2022-prot_1597595_29.12.2021.pdf
 - <code>**POA 2021 SISPI**</code> = https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/POA_2021_SISPI/POA_2021_SISPI_revisione_16-02-2021.pdf
 - <code>**POA 2021 SISPI rimodulato al 16 febbraio 2021**</code> =  https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/SISPI/raw/main/POA_2021_SISPI/POA_2021_Revisione_corrispettivi_1_Prot.%20113650%20del%2016.02.2021%20All.%201.pdf
