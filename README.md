@@ -2,7 +2,7 @@
 
 ### Repository degli atti comunali ufficiali relativi ai rapporti con la Società comunale in house SISPI SpA
 
-`https://docs.google.com/viewer?url=`
+anteporre `https://docs.google.com/viewer?url=` ad ogni URL al fine di generare una comoda visualizzazione del file PDF
 
 ## Documenti nel visualizzatore `pdf` - anno 2021
 
